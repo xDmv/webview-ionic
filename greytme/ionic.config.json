@@ -1,0 +1,7 @@
+{
+  "name": "Greytme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
