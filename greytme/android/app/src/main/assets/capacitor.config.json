@@ -1,0 +1,6 @@
+{
+	"appId": "greyt.me.starter",
+	"appName": "Greytme",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
