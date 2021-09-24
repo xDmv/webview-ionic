@@ -54,3 +54,6 @@ sync-android:
 del-android:
 	rm -Rfv ./android
 
+icons:
+	capacitor-resources
+
