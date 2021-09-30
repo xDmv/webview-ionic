@@ -53,7 +53,5 @@ sync-android:
 	ionic capacitor sync android --prod
 del-android:
 	rm -Rfv ./android
-
 icons:
 	capacitor-resources
-

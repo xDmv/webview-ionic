@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Greytme</string>
-    <string name="title_activity_main">Greytme</string>
+    <string name="app_name">Greyt.me</string>
+    <string name="title_activity_main">Greyt.me</string>
     <string name="package_name">greyt.me.starter</string>
     <string name="custom_url_scheme">greyt.me.starter</string>
 </resources>
